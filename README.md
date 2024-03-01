@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@its_gaya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_gaya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/isuru-bandara-07b24b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isuru-bandara-07b24b24b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19940696/isuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19940696/isuru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isuru-bandara-07b24b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-bandara-07b24b24b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19940696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19940696" height="30" width="40" /></a>
 <a href="https://instagram.com/_isuru_2815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_isuru_2815" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lsuru_gayantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lsuru_gayantha" height="30" width="40" /></a>
 </p>
