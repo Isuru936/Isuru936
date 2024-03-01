@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **isuru.gayantha@outlook.com**
 
-- 📄 Know about my experiences [I have currently no experience](I have currently no experience)
+- 📄 Know about my experiences [I have currently no experience]
 
 - ⚡ Fun fact **I realy like to code, mostly backend developement**
 
