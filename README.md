@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isuru936](https://github.com/Isuru936)
 
-- 💬 Ask me about **MERN, Java**
+- 💬 Ask me about **MERN, Java, Data Structures**
 
 - 📫 How to reach me **isuru.gayantha@outlook.com**
 
