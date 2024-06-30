@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuru936" alt="isuru936" /></a> </p>
 
-- 🔭 I’m currently working on a [Gym management Web Application](https://github.com/Isuru936/LifeStyleFitnessStudioGymWebApplication)
+- 🔭 I’m currently working on a [Bug Buster Issue Tracking System](https://github.com/Isuru936/BugBuster-Issue-Tracker-System)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isuru936](https://github.com/Isuru936)
 
-- 💬 Ask me about **MERN, Java, Data Structures**
+- 💬 Ask me about **MERN, Java, Data Structures, JS**
 
 - 📫 How to reach me **isuru.gayantha@outlook.com**
 
