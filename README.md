@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuru936" alt="isuru936" /></a> </p>
 
-- 🔭 I’m currently working on a [Bug Buster Issue Tracking System](https://github.com/Isuru936/BugBuster-Issue-Tracker-System)
+- 🔭 I’m currently working on a [Pizza Hotel and Resturant Web Application using NextJS]([https://github.com/Isuru936/BugBuster-Issue-Tracker-System](https://github.com/Isuru936/E-Commerce-Site))
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isuru936](https://github.com/Isuru936)
 
