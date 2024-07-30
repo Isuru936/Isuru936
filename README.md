@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [Pizza Hotel and Restaurant Web Application using NextJS](https://github.com/Isuru936/E-Commerce-Site)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Isuru936](https://github.com/Isuru936)
 
