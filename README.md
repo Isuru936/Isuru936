@@ -69,15 +69,15 @@
 
 ### ✍️ Recent Projects
 
+- ✅ [A Voice based Customer Support System (RAG + Multi-tenant)](https://github.com/Isuru936/expense-tracker)
+- ✅ [Library Management System](https://github.com/Shelf-Wise/)
 - ✅ [Expense Tracker - ASP.NET Core + Syncfusion + Azure](https://github.com/Isuru936/expense-tracker)
-- ✅ [Fitness Studio Management System - MERN Stack](https://github.com/Isuru936/fitness-studio)
-- ✅ [Issue Tracker - Spring Boot & React](https://github.com/Isuru936/bug-buster)
 
 ---
 
 ### 📫 How to Reach Me
 
-- 📧 Email: bandaraisuru936@gmail.com  
+- 📧 Email: isuru.gayantha@outlook.com
 - 🌐 LinkedIn: [linkedin.com/in/isuru-g-bandara](https://www.linkedin.com/in/isuru-g-bandara)
 
 ---
